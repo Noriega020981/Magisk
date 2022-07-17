@@ -8,6 +8,10 @@
 - [App] Fix incorrect recovery mode detection and installation
 - [MagiskInit] Fix config not properly exported in legacy SAR devices
 - [General] Enforce the Magisk app to always match or be newer than `magiskd`
+- [App] Fix BusyBox execution test                  
+- [MagiskSU] [Zygisk] Proper package management and detection
+- [BusyBox] Add workaround for devices running old kernels
+
 
 ### v25.0
 
